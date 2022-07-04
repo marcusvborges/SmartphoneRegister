@@ -1,0 +1,10 @@
+C:\VSprojects\source\repos\SmartphoneRegister\SmatphoneRegister.Models\bin\Debug\netcoreapp3.1\SmatphoneRegister.Models.deps.json
+C:\VSprojects\source\repos\SmartphoneRegister\SmatphoneRegister.Models\bin\Debug\netcoreapp3.1\SmatphoneRegister.Models.dll
+C:\VSprojects\source\repos\SmartphoneRegister\SmatphoneRegister.Models\bin\Debug\netcoreapp3.1\SmatphoneRegister.Models.pdb
+C:\VSprojects\source\repos\SmartphoneRegister\SmatphoneRegister.Models\obj\Debug\netcoreapp3.1\SmatphoneRegister.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSprojects\source\repos\SmartphoneRegister\SmatphoneRegister.Models\obj\Debug\netcoreapp3.1\SmatphoneRegister.Models.AssemblyInfoInputs.cache
+C:\VSprojects\source\repos\SmartphoneRegister\SmatphoneRegister.Models\obj\Debug\netcoreapp3.1\SmatphoneRegister.Models.AssemblyInfo.cs
+C:\VSprojects\source\repos\SmartphoneRegister\SmatphoneRegister.Models\obj\Debug\netcoreapp3.1\SmatphoneRegister.Models.csproj.CoreCompileInputs.cache
+C:\VSprojects\source\repos\SmartphoneRegister\SmatphoneRegister.Models\obj\Debug\netcoreapp3.1\SmatphoneRegister.Models.dll
+C:\VSprojects\source\repos\SmartphoneRegister\SmatphoneRegister.Models\obj\Debug\netcoreapp3.1\SmatphoneRegister.Models.pdb
+C:\VSprojects\source\repos\SmartphoneRegister\SmatphoneRegister.Models\obj\Debug\netcoreapp3.1\SmatphoneRegister.Models.csproj.AssemblyReference.cache
